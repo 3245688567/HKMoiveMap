@@ -1,18 +1,21 @@
-# React + Vite
+##📽️ Hong Kong Movie Scene Map / 香港電影場景地圖庫
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+香港電影場景地圖庫 是一個將 香港電影拍攝地點 顯示在互動地圖上的網站。使用者可以探索經典電影場景，查看電影截圖及場景資訊。
 
-Currently, two official plugins are available:
+#功能
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+香港電影拍攝地點互動地圖
 
-## React Compiler
+側邊欄列出電影與拍攝地點
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+點擊地圖標記可查看電影資訊、場景描述及圖片
 
-Note: This will impact Vite dev & build performances.
+Hong Kong Movie Scene Map is a web application that displays filming locations of Hong Kong movies on an interactive map. Users can explore famous movie spots, view stills, and get information about the film and the scene location.
 
-## Expanding the ESLint configuration
+Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Interactive map of Hong Kong movie locations
+
+Sidebar listing movies and locations
+
+Marker popups with movie info, scene description, and image
