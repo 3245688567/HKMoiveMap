@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "重慶大廈 (Chungking Mansions)",
+    "movie": "重慶森林 (Chungking Express, 1994)",
+    "lat": 22.2975,
+    "lng": 114.1722,
+    "image": "/chungking.jpg",
+    "description": "王家衛經典場景。"
+  },
+  {
+    "id": "2",
+    "title": "尖沙咀海旁",
+    "movie": "英雄本色 (A Better Tomorrow, 1986)",
+    "lat": 22.2947,
+    "lng": 114.1732,
+    "image": "/abettertomorrow.jpg",
+    "description": "周潤發的經典外套場景。"
+  }
+]
