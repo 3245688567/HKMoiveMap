@@ -20,12 +20,12 @@
 
 ## 免責聲明 / Reclamation
 
-**中文 / Chinese:**  
+ 
 本專案中展示的 **香港電影場景資料、圖片與資訊** 均來自網路公開資源，僅供 **學術研究、學習、展示或非商業用途** 使用。  
 
 若本專案的內容侵犯了任何版權或相關權益，請**及時聯繫我們**，我們將**立即刪除或更正相關資料**。
 
-**English:**  
+  
 All movie scene data, images, and information presented in this project are collected from publicly available online sources and are intended for **educational, research, or non-commercial purposes only**.  
 
 If any content in this project infringes on copyrights or related rights, please **contact us promptly**, and we will **remove or correct the materials immediately**.
