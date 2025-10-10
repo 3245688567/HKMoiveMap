@@ -16,5 +16,50 @@
     "lng": 114.2052799,
     "image": "/img/2.jpg",
     "description": "外景"
-  }
+  },
+  {
+    "id": "3",
+    "title": "九肚山馬鈴徑96號",
+    "movie": "逃學威龍 (Fight Back to School, 1991)",
+    "lat": 22.4088411,
+    "lng": 114.2085318,
+    "image": "/img/3.jpg",
+    "description": "外景"
+  },
+  {
+    "id": "4",
+    "title": "華耀工業中心",
+    "movie": "天若有情 (A Moment of Romance, 1990)",
+    "lat": 22.3995723,
+    "lng": 114.1942042,
+    "image": "/img/4.jpg",
+    "description": "警車翻車"
+  },
+  {
+    "id": "5",
+    "title": "威力工業中心",
+    "movie": "天若有情 (A Moment of Romance, 1990)",
+    "lat": 22.3967332,
+    "lng": 114.19649,
+    "image": "/img/5.jpg",
+    "description": "警察追逐外景"
+  },
+  {
+    "id": "6",
+    "title": "翡翠餐廳",
+    "movie": "天若有情 (A Moment of Romance, 1990)",
+    "lat": 22.3229735,
+    "lng": 114.167959,
+    "image": "/img/6.jpg",
+    "description": "太保泊車"
+  },
+  {
+    "id": "7",
+    "title": "後巷·黎記",
+    "movie": "天若有情 (A Moment of Romance, 1990)",
+    "lat": 22.3234903,
+    "lng": 114.1675428,
+    "image": "/img/7.jpg",
+    "description": "劉德華被打"
+  },{}
 ]
