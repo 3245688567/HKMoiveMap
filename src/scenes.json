@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "title": "重慶大廈 (Chungking Mansions)",
-    "movie": "重慶森林 (Chungking Express, 1994)",
-    "lat": 22.2975,
-    "lng": 114.1722,
-    "image": "/chungking.jpg",
-    "description": "王家衛經典場景。"
+    "title": "火炭拔子窩街",
+    "movie": "逃學威龍 (Fight Back to School, 1991)",
+    "lat": 22.3999155,
+    "lng": 114.1951801,
+    "image": "/img/1.jpg",
+    "description": "我未上車喎！"
   },
   {
     "id": "2",
-    "title": "尖沙咀海旁",
-    "movie": "英雄本色 (A Better Tomorrow, 1986)",
-    "lat": 22.2947,
-    "lng": 114.1732,
-    "image": "/abettertomorrow.jpg",
-    "description": "周潤發的經典外套場景。"
+    "title": "沙田第一城油站",
+    "movie": "逃學威龍 (Fight Back to School, 1991)",
+    "lat": 22.3853517,
+    "lng": 114.2052799,
+    "image": "/img/1.jpg",
+    "description": "外景"
   }
 ]
